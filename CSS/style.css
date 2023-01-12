@@ -1,0 +1,43 @@
+#Lina {
+  height: 150px;
+  padding-top: 20px;
+}
+.container {
+  background-color: rgba(191, 146, 227, 0.574);
+  padding: 20px;
+}
+h1 {
+  color: white;  
+  padding-left: 30px;
+  border: 6px solid rgb(157, 113, 176);
+  border-style: double;
+  margin: 20px;
+  font-weight: bold;
+}
+ul {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 5px;
+}
+li {
+  color: rgb(103, 73, 116);
+  padding-left: 7px;
+  list-style: none;
+}
+p {
+  color: rgb(103, 73, 116);
+  padding-right: 20px;
+}
+.me {
+  display: flex;
+  flex-wrap: nowrap;
+  padding-left: 20px;
+  gap: 20px;
+}
+.my {
+  border: 6px double rgb(157, 113, 176);
+  margin: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
